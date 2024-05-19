@@ -1,0 +1,9 @@
+.content {
+    margin-left: 10vw;
+}
+
+.profile-image{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
