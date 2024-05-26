@@ -1,0 +1,40 @@
+{
+  "debts": [
+    {
+      "id": 1,
+      "type": "Credit Card",
+      "balance": 5000,
+      "interestRate": 19.99,
+      "monthlyPayment": 550,
+      "lastPaymentDate": "2024-04-15",
+      "missedPayments": 2
+    },
+    {
+      "id": 2,
+      "type": "Student Loan",
+      "balance": 150000,
+      "interestRate": 5.35,
+      "monthlyPayment": 200,
+      "lastPaymentDate": "2024-05-01",
+      "missedPayments": 0
+    },
+    {
+      "id": 3,
+      "type": "Car Loan",
+      "balance": 80000,
+      "interestRate": 3.75,
+      "monthlyPayment": 2500,
+      "lastPaymentDate": "2024-04-25",
+      "missedPayments": 1
+    },
+    {
+      "id": 4,
+      "type": "Mortgage",
+      "balance": 1200000,
+      "interestRate": 4.25,
+      "monthlyPayment": 10000,
+      "lastPaymentDate": "2024-05-01",
+      "missedPayments": 0
+    }
+  ]
+}

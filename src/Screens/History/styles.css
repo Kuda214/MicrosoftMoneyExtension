@@ -1,3 +1,68 @@
 .content {
-    margin-left: 10vw;
+    margin-left: 12vw;
+    margin-right: 2vw;
 }
+
+.dropdown-container {
+    margin-bottom: 20px;
+  }
+  
+  .grid {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .grid th, .grid td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .grid th {
+    background-color: #f2f2f2;
+  }
+  
+  .goal-indicator {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+  }
+  
+  .goal-indicator.green {
+    background-color: green;
+  }
+  
+  .goal-indicator.red {
+    background-color: red;
+  }
+  
+  .view-transactions {
+    color: blue;
+    background: none;
+    border: none;
+    cursor: pointer;
+    text-decoration: underline;
+  }
+  
+  .transactions-grid {
+    width: 100%;
+    margin-top: 10px;
+    border-collapse: collapse;
+  }
+  
+  .transactions-grid th, .transactions-grid td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .transactions-grid th {
+    background-color: #e9e9e9;
+  }
+  
+  .pagination {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+  }
