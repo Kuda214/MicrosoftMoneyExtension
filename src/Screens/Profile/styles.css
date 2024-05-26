@@ -1,0 +1,38 @@
+.contentt {
+    margin-left: 22vw;
+    margin-right: 2vw;
+}
+
+.profile-image{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+
+.spending-behavior {
+    display: flex;
+    align-items: center;
+  }
+  
+  .behavior-indicator {
+    width: 100px; 
+    height: 20px; 
+    margin-right: 10px; 
+  }
+  
+  .spending-behavior p {
+    margin: 0;
+  }
+
+  .spending-behavior {
+    display: flex;
+    align-items: center;
+  }
+
+  
+  .authorize-button {
+    margin-left: auto;
+    width: 300px;
+    height: 40px;
+    background-color: rgb(140, 207, 193);
+  }
