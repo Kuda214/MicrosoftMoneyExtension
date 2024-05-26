@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import './styles.css';
-import data from '../../Data/data.json'; 
+import data from '../../dt/data.json'; 
 
 const History = () => {
   const [selectedYear, setSelectedYear] = useState(new Date().getFullYear());
