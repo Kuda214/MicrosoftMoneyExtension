@@ -1,0 +1,42 @@
+.content {
+    margin-left: 12vw;
+    margin-right: 2vw;
+}
+
+.dashboard-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f4f4f4;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  
+  .financial-score {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .chart-container {
+    margin-top: 20px;
+  }
+  
+
+  .grid {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .grid th, .grid td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .grid th {
+    background-color: #f2f2f2;
+  }
